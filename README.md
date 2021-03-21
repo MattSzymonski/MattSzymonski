@@ -6,7 +6,7 @@ Blender 3D [Rapid PBR Material Creator] addon developer. <br/>
 Ex vice-CEO of [KNTG Polygon] <br/><br/>
 Feel free to ping me at any of my social media listed below 👇 <br/>
 
-## Let's stay in touch:
+### Let's stay in touch:
 <!--
 [<img align="left" alt="mattszymonski" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mattszymonski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
