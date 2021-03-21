@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a 3rd-year Computer Science student at Warsaw University of Technology (Faculty of Mathematics and Information Science). <br/>
 Enthusiast of game development, especially 3d graphics, technical art, and engine programming. <br/>
