@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I am a 3rd-year Computer Science student at Warsaw University of Technology (Faculty of Mathematics and Information Science).
-Enthusiast of game development, especially 3d graphics, technical art, and engine programming.
-
-Blender 3D [Rapid PBR Material Creator] addon developer.
-Ex vice-CEO of [KNTG Polygon]
-
-
-Feel free to ping me at any of my social media listed below 👇
+I am a 3rd-year Computer Science student at Warsaw University of Technology (Faculty of Mathematics and Information Science). <br/>
+Enthusiast of game development, especially 3d graphics, technical art, and engine programming. <br/>
+Blender 3D [Rapid PBR Material Creator] addon developer. <br/>
+Ex vice-CEO of [KNTG Polygon] <br/>
+Feel free to ping me at any of my social media listed below 👇 <br/>
 
 ## Let's stay in touch:
 <!--
