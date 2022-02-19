@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a junior technical artist at CD PROJEKT RED and 4th-year Computer Science student at Warsaw University of Technology (Faculty of Mathematics and Information Science). <br/>
+I am junior technical artist at CD PROJEKT RED and Computer Science student at Warsaw University of Technology (Faculty of Mathematics and Information Science). <br/>
 Enthusiast of game development, especially 3d graphics, technical art, and engine programming. <br/>
 Blender 3D [Rapid PBR Material Creator] addon developer. <br/>
 Ex Vice President of [KNTG Polygon] <br/><br/>
