@@ -22,7 +22,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 [website]: https://helloroman.com
 -->
 [twitter]: https://twitter.com/MattSzymonski
-[linkedin]: https://www.linkedin.com/in/mateusz-szymo%C5%84ski-0885b420b/
+[linkedin]: www.linkedin.com/in/MattSzymonski
 [youtube]: https://www.youtube.com/channel/UCda5NWZtWc-KaKcV2uK8QMQ
 [artstation]: https://www.artstation.com/mattszymonski
 [KNTG Polygon]: https://kntgpolygon.pl/
