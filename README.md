@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a Junior Technical Artist at CD PROJEKT RED. <br/>
+I am a Technical Artist at CD PROJEKT RED. <br/>
 Enthusiast of game development, especially 3D Graphics, Technical Art, and Engine Programming. <br/>
 Blender 3D [Rapid PBR Material Creator] addon developer. <br/>
 Ex Vice President of [KNTG Polygon]. <br/>
