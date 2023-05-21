@@ -6,7 +6,7 @@ I am a software engineer and jack-of-all-trades game developer <br/>
 Currently, I work as a Technical Artist at CD PROJEKT RED 🐦 <br/>
 
 More info:
-- 🎓 Bachelor of Computer Science graduated from Warsaw University of Technology (Faculty of Mathematics and Information Science) <br/>
+- 🎓 Bachelor of Computer Science graduated from Warsaw University of Technology (FAC Mathematics and Information Science) <br/>
 - 🖥️ Enthusiast of game development. Especially 3D graphics, technical art, and low-level engine programming <br/>
 - 🍇 Professional game jammer (21 game jams and counting) <br/>
 - 🎨 Blender 3D [Rapid PBR Material Creator] addon developer <br/>
