@@ -2,7 +2,7 @@
 
 My name is Mateusz Szymoński (but you can call me Matt) <br/>
 
-I am a software engineer and jack-of-all-trades game developer <br/>
+I am a software engineer and jack-of-all-trades game developer 🃏 <br/>
 Currently, I work as a Technical Artist at CD PROJEKT RED 🐦 <br/>
 
 More info:
@@ -25,7 +25,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 
 [website]: https://mattszymonski.com
 [twitter]: https://twitter.com/MattSzymonski
-[linkedin]: www.linkedin.com/in/MattSzymonski
+[linkedin]: https://www.linkedin.com/in/mattszymonski/
 [youtube]: https://www.youtube.com/channel/UCda5NWZtWc-KaKcV2uK8QMQ
 [artstation]: https://www.artstation.com/mattszymonski
 [itch.io]: https://hist0r.itch.io/
