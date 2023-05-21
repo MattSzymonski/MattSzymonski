@@ -3,7 +3,7 @@
 My name is Mateusz Szymoński (but you can call me Matt) <br/>
 
 I am a software engineer and jack-of-all-trades game developer <br/>
-Currently, I work as a Technical Artist at CD PROJEKT RED 🐦 <br/><br/>
+Currently, I work as a Technical Artist at CD PROJEKT RED 🐦 <br/>
 
 More info:
 - 🎓 Bachelor of Computer Science graduated from Warsaw University of Technology (Faculty of Mathematics and Information Science) <br/>
@@ -20,8 +20,8 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 [<img align="left" alt="mattszymonski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mattszymonski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mattszymonski | ArtStation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />][artstation]
-[<img align="left" alt="mattszymonski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][youtube]
-[<img align="left" alt="mattszymonski | itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][itch.io]
+[<img align="left" alt="mattszymonski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mattszymonski | itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][itch.io]
 
 [website]: https://mattszymonski.com
 [twitter]: https://twitter.com/MattSzymonski
