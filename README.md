@@ -18,12 +18,13 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 ### Let's stay in touch:
 
 <p align="left">
-  <p align="center">
+  <p align="left">
     <a href="https://mattszymonski.com">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./media/logos/globe_icon_white.svg">
         <img src="./media/logos/globe_icon_black.svg" width="22" height="22">
       </picture>
+       - My website
     </a>
   </p>
   <p align="center">
