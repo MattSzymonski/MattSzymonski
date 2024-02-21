@@ -25,9 +25,8 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
         <img src="./media/logos/globe_icon_black.svg" width="22" height="22">
       </picture>
     </a>
-     <span style="line-height:22px;">Doesn't work.</span>
   </p>
-  <p align="center">
+  <p align="left">
     <a href="https://x.com/MattSzymonski">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./media/logos/x_logo_white.svg">
@@ -35,7 +34,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
       </picture>
     </a>
   </p>
-  <p align="center">
+  <p align="left">
     <a href="https://www.linkedin.com/in/mattszymonski/">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./media/logos/linkedin_logo_white.svg">
@@ -43,7 +42,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
       </picture>
      </a>
   </p>
-  <p align="center">
+  <p align="left">
     <a href="https://www.artstation.com/mattszymonski">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./media/logos/artstation_logo_white.svg">
@@ -51,7 +50,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
       </picture>
      </a>
   </p>
-  <p align="center">
+  <p align="left">
     <a href="https://www.youtube.com/channel/UCda5NWZtWc-KaKcV2uK8QMQ">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./media/logos/youtube_logo_white.svg">
@@ -59,7 +58,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
       </picture>
      </a>
   </p>
-  <p align="center">
+  <p align="left">
     <a href="https://hist0r.itch.io/">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./media/logos/itchio_logo_white.svg">
