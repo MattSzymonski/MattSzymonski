@@ -22,14 +22,15 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 
 <?xml version="1.0" standalone="yes"?>
 <svg xmlns = "http://www.w3.org/2000/svg" width="100%" height="100%">
-	<style>
-	  @media (prefers-color-scheme: dark) { svg { filter: invert(1); } }
-	</style>
+	
 	<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 
  
     <rect x="25" y="25" width="250" height="200" fill="#ff0000" stroke="#000000"/>
     <foreignObject x="50" y="50" width="200" height="150">
+    <style>
+	  @media (prefers-color-scheme: dark) { svg { filter: invert(1); } }
+	</style>
         <body xmlns="http://www.w3.org/1999/xhtml">
             <img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
         </body>
