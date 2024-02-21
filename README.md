@@ -20,7 +20,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg">
-    <img style="color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg">
+    <img style="color:blue; border: 2px solid #e66465 " src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg">
   </picture>
 </p>
 
