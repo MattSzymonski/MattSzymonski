@@ -38,7 +38,23 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
     <circle cx="60" cy="80" r="30" fill="#00ff00" fill-opacity="0.5"/>
 </svg>
 
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.light { display: block; }
+				.dark { display: none; }
+				@media (prefers-color-scheme: dark) {
+					.light { display: none; }
+					.dark { display: block; }
+				}
+			</style>
 
+			<img class="light" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+			<img class="dark" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg" />
+		</div>
+	</foreignObject>
+</svg>
 
 ### Let's stay in touch:
 [<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
