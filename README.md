@@ -25,9 +25,8 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
         <img src="./media/logos/globe_icon_black.svg" width="22" height="22">
       </picture>
     </a>
-     - My website
+     <span style="line-height:22px;">Doesn't work.</span>
   </p>
-   - My website
   <p align="center">
     <a href="https://x.com/MattSzymonski">
       <picture>
