@@ -16,7 +16,17 @@ More info:
 Feel free to ping me at any of my social media listed below 👇 <br/>
 
 ### Let's stay in touch:
-![](./README_contact_links.svg)
+[<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mattszymonski | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg" />][x]
+[<img align="left" alt="mattszymonski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mattszymonski | ArtStation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />][artstation]
+[<img align="left" alt="mattszymonski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mattszymonski | itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][itch.io]
 
+[website]: https://mattszymonski.com
+[x]: https://x.com/MattSzymonski
+[linkedin]: https://www.linkedin.com/in/mattszymonski/
+[youtube]: https://www.youtube.com/channel/UCda5NWZtWc-KaKcV2uK8QMQ
+[artstation]: https://www.artstation.com/mattszymonski
 [KNTG Polygon]: https://kntgpolygon.pl/
 [Rapid PBR Material Creator]: https://blendermarket.com/products/RapidPBRMaterialCreator
