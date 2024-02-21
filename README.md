@@ -12,7 +12,7 @@ Currently, I work as a Technical Artist at CD PROJEKT RED 🐦 <br/>
 More info:
 - 🎓 Bachelor of Computer Science graduated from Warsaw University of Technology (FAC Mathematics and Information Science) <br/>
 - 🖥️ Enthusiast of game development. Especially 3D graphics, technical art, and low-level engine programming <br/>
-- 🍇 Professional game jammer (21 game jams and counting) <br/>
+- 🍇 Professional game jammer (22 game jams / hackathons, and counting) <br/>
 - 🎨 Blender 3D [Rapid PBR Material Creator] addon developer <br/>
 - 🎩 Ex Vice President of [KNTG Polygon] <br/>
 - 🦀 Rust programming language fan <br/><br/>
@@ -22,6 +22,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 
 <?xml version="1.0" standalone="yes"?>
 <svg xmlns = "http://www.w3.org/2000/svg" width="100%" height="100%">
+	<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
     <rect x="25" y="25" width="250" height="200" fill="#ff0000" stroke="#000000"/>
     <foreignObject x="50" y="50" width="200" height="150">
         <body xmlns="http://www.w3.org/1999/xhtml">
@@ -34,14 +35,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
     <circle cx="60" cy="80" r="30" fill="#00ff00" fill-opacity="0.5"/>
 </svg>
 
-<foreignObject width="100%" height="100%">
 
-	<style>
-	  @media (prefers-color-scheme: dark) { svg { filter: invert(1); } }
-	</style>
-
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
-</foreignObject>
 
 ### Let's stay in touch:
 [<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
