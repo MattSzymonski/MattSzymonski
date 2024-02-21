@@ -25,7 +25,7 @@
 		}
       </style>
       <h1>Hello, world</h1>
-	  <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22" height="22"/>
+	  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg" width="32" height="32"/>
     </div>
   </foreignObject>
 </svg>
