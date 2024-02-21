@@ -17,7 +17,50 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 
 ### Let's stay in touch:
 
-![GitHub-Mark-Light](https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg#gh-dark-mode-only)![GitHub-Mark-Dark](https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg#gh-light-mode-only)
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/logos/globe_icon_white.svg">
+    <img src="./media/logos/globe_icon_black.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/logos/x_logo_white.svg">
+    <img src="./media/logos/x_logo_white.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/logos/linkedin_logo_white.svg">
+    <img src="./media/logos/linkedin_logo_black.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/logos/artstation_logo_white.svg">
+    <img src="./media/artstation_logo_black.svg">
+  </picture>
+</p>
+
+[<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/logos/youtube_logo_white.svg">
+    <img src="./media/youtube_logo_black.svg">
+  </picture>
+</p>][website]
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/logos/itchio_logo_white.svg">
+    <img src="./media/itchio_logo_black.svg">
+  </picture>
+</p>[website]
+
 
 [<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mattszymonski | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg" />][x]
