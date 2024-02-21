@@ -17,8 +17,8 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 
 ### Let's stay in touch:
 
+<p align="left">
 
-<div style="display:flex">
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/logos/globe_icon_white.svg">
@@ -60,7 +60,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
     <img src="./media/itchio_logo_black.svg" width="22" height="22">
   </picture>
 </p>
-</div>
+</p>
 
 [<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mattszymonski | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg" />][x]
