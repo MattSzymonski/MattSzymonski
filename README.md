@@ -19,15 +19,14 @@ More info:
 
 Feel free to ping me at any of my social media listed below 👇 <br/>
 
-<p align="center">
-	<style type="text/css">
+<foreignObject width="100%" height="100%">
+
+	<style>
 	  @media (prefers-color-scheme: dark) { svg { filter: invert(1); } }
 	</style>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+
     <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
-  </picture>
-</p>
+</foreignObject>
 
 ### Let's stay in touch:
 [<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
