@@ -28,5 +28,7 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 [linkedin]: https://www.linkedin.com/in/mattszymonski/
 [youtube]: https://www.youtube.com/channel/UCda5NWZtWc-KaKcV2uK8QMQ
 [artstation]: https://www.artstation.com/mattszymonski
+[itch.io]: https://hist0r.itch.io/
+
 [KNTG Polygon]: https://kntgpolygon.pl/
 [Rapid PBR Material Creator]: https://blendermarket.com/products/RapidPBRMaterialCreator
