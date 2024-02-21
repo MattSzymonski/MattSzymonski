@@ -24,9 +24,10 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
         <source media="(prefers-color-scheme: dark)" srcset="./media/logos/globe_icon_white.svg">
         <img src="./media/logos/globe_icon_black.svg" width="22" height="22">
       </picture>
-       - My website
     </a>
+     - My website
   </p>
+   - My website
   <p align="center">
     <a href="https://x.com/MattSzymonski">
       <picture>
