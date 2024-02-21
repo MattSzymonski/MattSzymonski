@@ -22,42 +22,42 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/logos/globe_icon_white.svg">
-    <img src="./media/logos/globe_icon_black.svg">
+    <img src="./media/logos/globe_icon_black.svg" width="22" height="22">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/logos/x_logo_white.svg">
-    <img src="./media/logos/x_logo_white.svg">
+    <img src="./media/logos/x_logo_white.svg" width="22" height="22">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/logos/linkedin_logo_white.svg">
-    <img src="./media/logos/linkedin_logo_black.svg">
+    <img src="./media/logos/linkedin_logo_black.svg" width="22" height="22">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/logos/artstation_logo_white.svg">
-    <img src="./media/artstation_logo_black.svg">
+    <img src="./media/artstation_logo_black.svg" width="22" height="22">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/logos/youtube_logo_white.svg">
-    <img src="./media/youtube_logo_black.svg">
+    <img src="./media/youtube_logo_black.svg" width="22" height="22">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/logos/itchio_logo_white.svg">
-    <img src="./media/itchio_logo_black.svg">
+    <img src="./media/itchio_logo_black.svg" width="22" height="22">
   </picture>
 </p>
 </div>
