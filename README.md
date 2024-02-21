@@ -17,7 +17,10 @@ Feel free to ping me at any of my social media listed below 👇 <br/>
 
 ### Let's stay in touch:
 
-![GitHub-Mark-Light](https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg#gh-dark-mode-only)![GitHub-Mark-Dark](https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg#gh-light-mode-only)
+![GitHub-Mark-Light](https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg#gh-dark-mode-only)
+![GitHub-Mark-Dark](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only)
+
+
 
 [<img align="left" alt="mattszymonski | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mattszymonski | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.5.0/icons/x.svg" />][x]
