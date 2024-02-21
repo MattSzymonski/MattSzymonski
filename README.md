@@ -16,57 +16,7 @@ More info:
 Feel free to ping me at any of my social media listed below 👇 <br/>
 
 ### Let's stay in touch:
-
-<p align="left">
-  <p align="left">
-    <a href="https://mattszymonski.com">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./media/logos/globe_icon_white.svg">
-        <img src="./media/logos/globe_icon_black.svg" width="22" height="22">
-      </picture>
-    </a>
-  </p>
-  <p align="left">
-    <a href="https://x.com/MattSzymonski">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./media/logos/x_logo_white.svg">
-        <img src="./media/logos/x_logo_white.svg" width="22" height="22">
-      </picture>
-    </a>
-  </p>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/mattszymonski/">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./media/logos/linkedin_logo_white.svg">
-        <img src="./media/logos/linkedin_logo_black.svg" width="22" height="22">
-      </picture>
-     </a>
-  </p>
-  <p align="left">
-    <a href="https://www.artstation.com/mattszymonski">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./media/logos/artstation_logo_white.svg">
-        <img src="./media/artstation_logo_black.svg" width="22" height="22">
-      </picture>
-     </a>
-  </p>
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCda5NWZtWc-KaKcV2uK8QMQ">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./media/logos/youtube_logo_white.svg">
-        <img src="./media/youtube_logo_black.svg" width="22" height="22">
-      </picture>
-     </a>
-  </p>
-  <p align="left">
-    <a href="https://hist0r.itch.io/">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./media/logos/itchio_logo_white.svg">
-        <img src="./media/itchio_logo_black.svg" width="22" height="22">
-      </picture>
-   </a>
-  </p>
-</p>
+![](./README_contact_links.svg)
 
 [KNTG Polygon]: https://kntgpolygon.pl/
 [Rapid PBR Material Creator]: https://blendermarket.com/products/RapidPBRMaterialCreator
