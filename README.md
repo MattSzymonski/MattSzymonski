@@ -8,7 +8,7 @@ Currently, I work as a Technical Artist at CD PROJEKT RED 🐦 <br/>
 More info:
 - 🎓 Bachelor of Computer Science graduated from Warsaw University of Technology (FAC Mathematics and Information Science) <br/>
 - 🖥️ Enthusiast of game development. Especially 3D graphics, technical art, and low-level engine programming <br/>
-- 🍇 Professional game jammer (22 game jams / hackathons, and counting) <br/>
+- 🍇 Game jam and hackathon veteran (23 events, and counting) <br/>
 - 🎨 Blender 3D [Rapid PBR Material Creator] addon developer <br/>
 - 🎩 Ex Vice President of [KNTG Polygon] <br/>
 - 🦀 Rust programming language fan <br/><br/>
