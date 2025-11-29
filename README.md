@@ -5,51 +5,20 @@ My name is Mateusz Szymoński (but you can call me Matt) <br/>
 I work as a Technical Artist at [CD PROJEKT RED](https://www.cdprojektred.com/en) 🐦 and as a Software Engineer at [Sticky Piston Studios](https://stickypistonstudios.com/en), the startup I co-founded.
 
 For more information please visit my personal website: [MattSzymonski.com](https://mattszymonski.com/about_me/)
+</br></br>
+## Let's stay in touch
+Feel free to ping me at any of my social media:
 
-Feel free to ping me at any of my social media listed below 👇 <br/>
+[<img width="22px" src="media/logos/globe_icon_white.svg" />][website]&nbsp;&nbsp;
+[<img width="22px" src="media/logos/linkedin_logo_white.svg" />][linkedin]&nbsp;&nbsp;
+[<img width="22px" src="media/logos/artstation_logo_white.svg" />][artstation]&nbsp;&nbsp;
+[<img width="22px" src="media/logos/x_logo_white.svg" />][x]&nbsp;&nbsp;
+[<img width="22px" src="media/logos/youtube_logo_white.svg" />][youtube]&nbsp;&nbsp;
+[<img width="22px" src="media/logos/itchio_logo_white.svg" />][itch.io]
 
-### Let's stay in touch:
-<p align="left">
-  <!-- Website -->
-  <a href="[website]">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="media/logos/globe_icon_white.svg" />
-      <img align="left" alt="mattszymonski | Website" width="22" src="media/logos/globe_icon_black.svg" />
-    </picture>
-  </a>
-  <!-- LinkedIn -->
-  <a href="[linkedin]">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="media/logos/linkedin_icon_white.svg" />
-      <img align="left" alt="mattszymonski | LinkedIn" width="22" src="media/logos/linkedin_icon_black.svg" />
-    </picture>
-  </a>
-  <!-- X -->
-  <a href="[x]">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="media/logos/x_icon_white.svg" />
-      <img align="left" alt="mattszymonski | X" width="22" src="media/logos/x_icon_black.svg" />
-    </picture>
-  </a>
-  <!-- ArtStation -->
-  <a href="[artstation]">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="media/logos/artstation_icon_white.svg" />
-      <img align="left" alt="mattszymonski | ArtStation" width="22" src="media/logos/artstation_icon_black.svg" />
-    </picture>
-  </a>
-  <!-- YouTube -->
-  <a href="[youtube]">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="media/logos/youtube_icon_white.svg" />
-      <img align="left" alt="mattszymonski | YouTube" width="22" src="media/logos/youtube_icon_black.svg" />
-    </picture>
-  </a>
-  <!-- itch.io -->
-  <a href="[itch.io]">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="media/logos/itchio_icon_white.svg" />
-      <img align="left" alt="mattszymonski | itch.io" width="22" src="media/logos/itchio_icon_black.svg" />
-    </picture>
-  </a>
-</p>
+[website]: https://mattszymonski.com
+[linkedin]: https://www.linkedin.com/in/mattszymonski/
+[artstation]: https://www.artstation.com/mattszymonski
+[x]: https://x.com/MattSzymonski
+[youtube]: https://www.youtube.com/channel/UCda5NWZtWc-KaKcV2uK8QMQ
+[itch.io]: https://hist0r.itch.io/
