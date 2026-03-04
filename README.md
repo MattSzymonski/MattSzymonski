@@ -2,7 +2,7 @@
 
 My name is Mateusz Szymoński (but you can call me Matt) <br/>
 
-I work as a Technical Artist at [CD PROJEKT RED](https://www.cdprojektred.com/en) 🐦 and as a Software Engineer at [Sticky Piston Studios](https://stickypistonstudios.com/en), the startup I co-founded.
+I work as a Senior Technical Artist at [CD PROJEKT RED](https://www.cdprojektred.com/en) 🐦 and as a Software Engineer at [Sticky Piston Studios](https://stickypistonstudios.com/en), the startup I co-founded.
 
 For more information please visit my personal website: [MattSzymonski.com](https://mattszymonski.com/about_me/)
 </br></br>
